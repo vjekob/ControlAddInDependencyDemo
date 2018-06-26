@@ -8,3 +8,6 @@ This folder contains the base extension, the one that exposes the control add-in
 ## ConsumerExtension
 This folder contains the extension that depends on the control add-in defined in BaseExtension and consumes its control add-in.
 
+# What can I do with this?
+How should I know? :)
+You are free to do anything as you please, I don't put any restrictions on this code. It's copyleft.
