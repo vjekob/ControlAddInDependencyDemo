@@ -1,0 +1,30 @@
+{
+  "id": "0ee6d4f5-85dc-4fb0-b551-c6c82e82e7a6",
+  "name": "ConsumerExtension",
+  "publisher": "Vjeko.com",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "e3ad4b6d-5361-457b-8bc5-85dd2fdd0c06",
+      "name": "Control Add-in Base",
+      "publisher": "Vjeko.com",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50110,
+    "to": 50119
+  }
+}
